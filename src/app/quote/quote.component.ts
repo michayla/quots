@@ -12,8 +12,8 @@ export class QuoteComponent implements OnInit {
 
 
   quotes = [
-    new Quote(1, 'Heartbreaks are good for your career' , 'Geerockface' , new Date(2018, 3, 14)),
-    new Quote (2 , 'Its not about what you\'ve been through , its about what you became' , 'Trevor Jayson' , new Date(2018, 3, 17)),
+    new Quote(1, 'Fear is never the source of security' , 'Wangari Maathai' , new Date(2020, 3, 31)),
+    new Quote (2 , 'Its not about what you\'ve been through , its about what you became' , 'Trevor Jayson' , new Date(2020, 3, 31)),
   ];
   likeButtonClick(index) {
     this.numberOfLikes++;
@@ -39,8 +39,8 @@ export class QuoteComponent implements OnInit {
         }
 
   toogleDetails(index) {
-    // this.quotes[index].showAuthor = !this.quotes[index].showAuthor ;
-    alert('I still love you baby');
+   
+    alert('Its okay');
   }
   constructor() { }
 

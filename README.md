@@ -1,4 +1,4 @@
-# Quotes2 ![Where Broken hearts Go](broken-heart.png)
+# Quotes
 #### This is an application that you can share what you are going through as a way of talking to people, you can also read quotes of other people who underwent the same situation as you, vote the helpful posts and down vote the ones you dislike 
 #### Author
 * Michelle Michuki
