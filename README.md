@@ -20,6 +20,6 @@ The details (toggle) is not functional at the moment
 * ANGULAR
 * TYPESCRIPT
 ## Support and contact details
-Incase of any issue, reach me at geerockface4@gmail.com
+Incase of any issue, reach me at michukimichelle@gmail.com
 ### License
 This project is under MIT licence
